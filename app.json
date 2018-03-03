@@ -18,13 +18,13 @@
             "description": "拼接config.json,默认即可",
             "value": ",\"settings\":{\"clients\":[{\"id\":\""
         },
-        "UUID": {
-            "description": "uuidgenerator在线生成自己的UUID",
-            "value": "https://www.uuidgenerator.net/"
-        },
         "CONFIG_JSON3": {
             "description": "拼接config.json,默认即可",
             "value": "\",\"alterId\":64}]},\"streamSettings\":{\"network\":\"ws\"}},\"inboundDetour\":[],\"outbound\":{\"protocol\":\"freedom\",\"settings\":{}}}"
-        }
+        },
+        "UUID": {
+            "description": "uuidgenerator在线生成自己的UUID",
+            "value": "https://www.uuidgenerator.net/"
+        }        
     }
 }
