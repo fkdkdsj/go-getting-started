@@ -23,8 +23,8 @@
             "value": "\",\"alterId\":64}]},\"streamSettings\":{\"network\":\"ws\"}},\"inboundDetour\":[],\"outbound\":{\"protocol\":\"freedom\",\"settings\":{}}}"
         },
         "UUID": {
-            "description": "uuidgenerator在线生成自己的UUID",
-            "value": "https://www.uuidgenerator.net/"
+            "description": "生成自己的UUID",
+            "value": "https://httpbin.org/uuid"
         }        
     }
 }
